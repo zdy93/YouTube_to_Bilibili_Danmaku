@@ -1,5 +1,5 @@
 # YouTube Dmooji 弹幕文件转 Bilibili 弹幕文件 (Transfer YouTube Dmooji danmaku file to Bilibili danmaku file)
-[YouTube Dmooji](https://chrome.google.com/webstore/detail/dmooji-live-comments-danm/dcacgbaadlgfnmcpjncoobionpjnbnih) 是一款chrome插件，可以实现在YouTube上观看弹幕的功能，但是其弹幕文件不被一些主流弹幕视频播放器支持。而b站弹幕可以被很多弹幕视频播放软件支持，故本代码旨在将YouTube Dmooji的弹幕文件(`.json`)转换成Bilibili的弹幕文件(`.xml`)
+[YouTube Dmooji](https://chrome.google.com/webstore/detail/dmooji-live-comments-danm/dcacgbaadlgfnmcpjncoobionpjnbnih) 是一款chrome插件，可以实现在YouTube上观看弹幕的功能，但是其弹幕文件不被一些主流弹幕视频播放器支持。而b站弹幕可以被很多弹幕视频播放器支持，故本代码旨在将YouTube Dmooji的弹幕文件(`.json`)转换成Bilibili的弹幕文件(`.xml`)
 ## 配置要求(Requirement)
 ### Python
 * python == 3.6.0
