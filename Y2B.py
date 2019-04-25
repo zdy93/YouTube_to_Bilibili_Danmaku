@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
 """
-@author: Dongyu Zhang
+@author: zdy93
 """
 from absl import app, flags
 import re
