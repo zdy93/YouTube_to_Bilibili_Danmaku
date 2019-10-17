@@ -21,4 +21,4 @@ python Y2B.py --youtube_url https://www.youtube.com/watch?v=mhIeiUbH2gg --dir H:
 - `--youtube_url`：YouTube的视频网页链接，格式为`https://www.youtube.com/watch?v=video_id`例如`https://www.youtube.com/watch?v=mhIeiUbH2gg`**注意：不是YouTube弹幕文件的链接。**
 ### 非必须参数(optional argument)
 - `--dir`：弹幕文件的输出目录，默认为`Y2B.py`所在目录
-- `--name`：弹幕文件的名称，默认为`video_id.py`，video_id 为视频链接中的id
+- `--name`：弹幕文件的名称，默认为`video_id.xml`，video_id 为视频链接中的id
